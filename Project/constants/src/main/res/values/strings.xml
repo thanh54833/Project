@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Đổi đầu số </string>
+
+    <string name="about">
+<b>* Lịch chuyển đổi dự kiến của Viettel:</b>\n
+    - Đầu số 0169.66 - 039.66: Từ 0h00 ngày 15/9/2018\n
+    - Đầu số 0169 - 039: Từ 0h00 ngày 17/9/2018\n
+    - Đầu số 0168 - 038: Từ 0h00 ngày 19/9/2018\n
+    - Đầu số 0167 - 037: Từ 0h00 ngày 23/9/2018\n
+    - Đầu số 0166 - 036: Từ 0h00 ngày 25/9/2018\n
+    - Đầu số 0165 - 035: Từ 0h00 ngày 27/9/2018\n
+    - Đầu số 0164 - 034: Từ 0h00 ngày 03/10/2018\n
+    - Đầu số 0163 - 033: Từ 0h00 ngày 05/10/2018\n
+    - Đầu số 0162 - 032: Từ 0h00 ngày 07/10/2018\n
+<b>* Lịch chuyển đổi dự kiến của MobiFone:</b>\n
+    - Đầu số 0120 - 070: Từ 15/9\n
+    - Đầu số 0121 - 079: Từ 21/9\n
+    - Đầu số 0122 - 077: Từ 25/9\n
+    - Đầu số 0126 - 076: Từ 28/9\n
+    - Đầu số 0128 - 078: Từ 2/10\n
+<b>* Lịch chuyển đổi dự kiến của VinaPhone:</b>\n
+    - Đầu số 0123 - 083: Từ 0h00 ngày 24/9/2018\n
+    - Đầu số 0124 - 084: Từ 0h00 ngày 15/9/2018\n
+    - Đầu số 0125 - 085: Từ 0h00 ngày 27/9/2018\n
+    - Đầu số 0127 - 081: Từ 0h00 ngày 18/9/2018\n
+    - Đầu số 0129 - 082: Từ 0h00 ngày 21/9/2018\n
+<b>* Lịch chuyển đổi dự kiến của Gmobile:</b>\n
+    - Đầu số 0199.2: Từ ngày 15/9\n
+    - Đầu số 0199.3: Từ ngày 17/9\n
+    - Đầu số 0199.8: Từ ngày 19/9\n
+    - Đầu số 0199.9: Từ ngày 21/9\n
+<b>* Lịch chuyển đổi dự kiến của Vietnamobile:</b>\n
+    - Đầu số 01864 và bộ Kit: Từ ngày 15/9\n
+    - Đầu số 01863: Từ ngày 17/9\n
+    - Đầu số 01884 đến 01889: Từ ngày 19/9\n
+    - Đầu số 01883: Từ ngày 21/9\n
+    - Đầu số 01882 và 01865 đến 01869: Từ ngày 23/9\n
+    </string>
+
+</resources>
